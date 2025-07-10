@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Hruday Patil</h1>
-<h3 align="center">An aspiring software developer. Currently pursuing my Computer Engineering Degree at FrCrce, Bandra.</h3>
+<h3 align="center">An aspiring software developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrudaypatil21&label=Profile%20views&color=0e75b6&style=flat" alt="hrudaypatil21" /> </p>
 
